@@ -11,4 +11,6 @@ An Introduction to Web Assembly
 
 `trunk serve`
 
+![WASM Counter App](demo/demoWASM.png "Counter App")
+
 Just Kill JavaScript and Use Rust.
